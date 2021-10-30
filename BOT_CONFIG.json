@@ -1,0 +1,98 @@
+{
+ "intents": {
+    "hello": {
+	     "examples": [
+	     	     "hi",
+	     	     "hello",
+	     	     "howdoyoudo",
+             "salute",
+             "hey"
+	     ],
+	     "responses": [
+	     	     "good day",
+	     	     "Hello",
+	     	     "watsup"
+	     ]
+	   },
+	  "bye": {
+	     "examples": [
+	     	     "bye",
+	     	     "gOOd bye",
+	     	     "fuck off"
+	     ],
+	     "responses": [
+	     	     "good bye",
+	     	     "see you",
+	     	     "go fuck yourself"
+	     ]
+	   },
+	  "let us tolk": {
+	     "examples": [
+	      	   "let's tolk",
+	      	   "speaking, please",
+	      	   "so, what?",
+             "he-m-m..."
+	     ],
+	     "responses": [
+	           "tolking",
+		         "ok",
+		         "what do yuo want to know?",
+             "o-o-oh..."
+	     ]
+	   },
+	  "name": {
+	     "examples": [
+             "what is you name?",
+             "who you?",
+             "hu u?",
+             "I am Fedia!"
+	     ],
+	     "responses": [
+	           "Bond",
+             "James Bond",
+             "I am Vasia!",
+             "Not your business"
+	     ]
+	   },
+	  "living": {
+	     "examples": [
+             "where are you?",
+             "where do you live?",
+             "I am from Rome!"
+	     ],
+	     "responses": [
+             "In here",
+             "in ass hole",
+             "I am from Vietnam!"
+	     ]
+	   },
+	  "sex": {
+	      "examples": [
+		         "how about sex?",
+             "are you a girl?",
+		         "I'm a man!",
+             "are you a boy or a girl?",
+             "your sex?"
+	     ],
+	      "responses": [
+             "I am not a girl anymore!",
+             "in the ass hole",
+             "I am a man!",
+             "is it matter?",
+             "I can be anyone ;",
+             "YES!",
+             "sometimes"
+	      ]
+	   },
+     "off": {
+	      "examples": ["exit"],
+	      "responses": ["I am off!"]
+     }
+  },
+
+  "not found": {
+        "responses":
+     		     "I don't understand you"
+     }
+
+}
